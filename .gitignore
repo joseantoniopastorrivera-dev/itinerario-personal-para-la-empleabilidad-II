@@ -4,5 +4,14 @@
 # Scripts temporales
 *.bat
 
+# Búsqueda de prácticas: datos personales, nunca se suben (el repo es público)
+busqueda-de-practicas/perfil-maestro.md
+busqueda-de-practicas/cv/
+busqueda-de-practicas/candidaturas/
+busqueda-de-practicas/seguimiento.md
+
+# Guía del proyecto emprendedor escaneada del libro de texto: copyright de la editorial, solo en local
+teoria/guia-proyecto-emprendedor-ipe-ii.pdf
+
 # Guías de defensa: material personal, nunca se suben a GitHub
 guia-defensa-*.md
